@@ -26,6 +26,7 @@ print("Hallo, bitte nicht wieder löschen ich bin schreibfaul. danke =)")
 print("13:28")
 print("asölfjaljg")
 
+<<<<<<< HEAD
 
 
 
@@ -39,3 +40,6 @@ print("asölfjaljg")
 
 print("So 1x noch, weils so schön ist")
 
+=======
+print("was mach ich denn Hier?")
+>>>>>>> d2712e67c11652411028c9ccceedc613803eebf2
