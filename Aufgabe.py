@@ -6,7 +6,7 @@ print("Die Aufagbe ist das jeder eine Zeile hier " \
 print("Hallo Hallo, test 123")
 print("Sinan")
 print("Hello")
-<<<<<<< HEAD
+
 
 print("Hi")
 print("Brautkleid bleibt Brautkleid. Blaukraut bleibt Blaukraut")
