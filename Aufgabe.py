@@ -26,3 +26,4 @@ print("Hallo, bitte nicht wieder löschen ich bin schreibfaul. danke =)")
 print("13:28")
 print("asölfjaljg")
 
+print("was mach ich denn Hier?")
