@@ -5,5 +5,13 @@ print("Die Aufagbe ist das jeder eine Zeile hier " \
 print("Hallo Hallo, test 123")
 print("Sinan")
 print("Hello")
+
 print("Hi")
+print("Brautkleid bleibt Brautkleid. Blaukraut bleibt Blaukraut")
+
+
+print("Hallo, ich bin der neue Schüler")
+
+print("Hi")
+
 print("Brautkleid bleibt Brautkleid. Blaukraut bleibt Blaukraut")
